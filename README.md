@@ -1,1 +1,1 @@
-# YOLO-Object-Detectin
+# YOLO-Object-Detection
